@@ -1,0 +1,8 @@
+/com/
+/db.properties
+/hibernate.cfg.xml
+/log4j.properties
+/mvc/
+/spring-dao.xml
+/spring-service.xml
+/tags/
